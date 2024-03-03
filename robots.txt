@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /.git
+Allow: /
+
+Sitemap: https://simplepwa.com/sitemap.xml
+
+
+
+23 FEB
+27 FEB mie
